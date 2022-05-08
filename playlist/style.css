@@ -1,0 +1,38 @@
+
+body{
+    background-color: rgb(223, 202, 212);
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+#tokenSection{
+    display: none;
+}
+
+#deviceSection{
+    display: none;
+}
+
+.container{
+    padding: 40px;    
+    background-color: rgb(180, 139, 150);
+}
+
+#albumImage{
+    width: 300px;
+    float:right;
+    margin: 80px;
+}
+
+
+
+#trackTitle{
+    font-size:2em;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+
+#trackArtist{
+    font-size:1em;
+    padding-left: 200px;
+}
